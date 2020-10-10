@@ -7,11 +7,13 @@
     "folds" : "",
     "hash" : "2947985959",
     "id" : "4BB3B437",
-    "lastKnownWriteTime" : 1602323021,
-    "last_content_update" : 1602323021,
+    "lastKnownWriteTime" : 1602327994,
+    "last_content_update" : 1602327994,
     "path" : "~/Desktop/my project/.Rhistory",
     "project_path" : ".Rhistory",
     "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 3,
     "source_on_save" : false,
