@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602230653375.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D071DFB",
+    "lastKnownWriteTime" : 4324650312,
+    "last_content_update" : 1602230653375,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9582EA5D",
+        "caption" : "data_inference_task",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_inference_task&cache_key=9582EA5D",
+        "displayedObservations" : 1152,
+        "environment" : "",
+        "object" : "data_inference_task",
+        "preview" : 0,
+        "totalObservations" : 1152,
+        "variables" : 10
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
